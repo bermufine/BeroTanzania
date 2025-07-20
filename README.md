@@ -10,6 +10,7 @@
 "https://cdn-ke-nbo.b-cdn.net/hcorg_vmXRKR6nCkq/s/jsl_oVTOBy6W2en/QJMGa/480p/main.m3u8"
 ],
 "subtitleTa": "All Channel",
+"numberTa": "422",
 "thumbTa": "https://od.lk/s/NDZfODQwMTg3NjFf/hopechanneltanzania.png",
 "titleTa": "HOPE CHANNEL"
       },
@@ -18,7 +19,8 @@
 "sourceTa": [
 "https://goliveafrica.media:9998/live/68666eb6ea609/index.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "423",
 "thumbTa": "https://od.lk/s/NDZfODQwMTg1OTJf/oboodtv.jpg",
 "titleTa": "OBOOD TV"
       },
@@ -27,7 +29,8 @@
 "sourceTa": [
 "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "424",
 "thumbTa": "https://od.lk/s/M18yNDg1NzQ0NTZf/ibn.png",
 "titleTa": "IBN TV"
       },
@@ -36,7 +39,8 @@
 "sourceTa": [
 "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "425",
 "thumbTa": "http://www.alitrah.co.tz/wp-content/uploads/sites/3/2015/10/ibntvafrica.png",
 "titleTa": "IBN TV"
       },
@@ -45,7 +49,8 @@
 "sourceTa": [
 "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "426",
 "thumbTa": "http://www.africagroup.tv/img/bgTV1.png",
 "titleTa": "Africa TV 1"
       },
@@ -54,7 +59,8 @@
 "sourceTa": [
 "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "427",
 "thumbTa": "http://www.africagroup.tv/img/bgTV2.png",
 "titleTa": "Africa TV 2"
       },
@@ -63,7 +69,8 @@
 "sourceTa": [
 "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
 ],
-"subtitleTa": "By Channel",
+"subtitleTa": "All Channel",
+"numberTa": "428",
 "thumbTa": "https://www.africagroup.tv/img/bgTV3.png",
 "titleTa": "Africa TV 3"
           }
