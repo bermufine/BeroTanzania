@@ -4,6 +4,80 @@
 {
 "name": "Movies",
 "videos": [
+      {
+"descriptionTa": "Hope Channel TV is the first christian channel Tv station in central region",
+"sourceTa": [
+"https://cdn-ke-nbo.b-cdn.net/hcorg_vmXRKR6nCkq/s/jsl_oVTOBy6W2en/QJMGa/480p/main.m3u8"
+],
+"subtitleTa": "All Channel",
+"thumbTa": "https://od.lk/s/NDZfODQwMTg3NjFf/hopechanneltanzania.png",
+"titleTa": "HOPE CHANNEL"
+      },
+      {
+"descriptionTa": "Obood TV is the first Tv station in central region",
+"sourceTa": [
+"https://goliveafrica.media:9998/live/68666eb6ea609/index.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "https://od.lk/s/NDZfODQwMTg1OTJf/oboodtv.jpg",
+"titleTa": "OBOOD TV"
+      },
+      {
+"descriptionTa": "Ibn tv tanzanie est l'une des chaines privées que l'on retrouve dans la ville de Kinshasa, possédant des émissions variées",
+"sourceTa": [
+"http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "https://od.lk/s/M18yNDg1NzQ0NTZf/ibn.png",
+"titleTa": "IBN TV"
+      },
+      {
+"descriptionTa": "IBN TV est un radiodiffuseur islamique de télévision et de radio qui transmet IBN TV et Radio Maarifa de Dar es Salaam et Tanga respectivement. Il a été crée sous la direction de la Fondation Al Itrah et a été diffusé officiellement depuis Mars 2003. IBN TV est un média privé qui a commencé après la libéralisation de l’industrie des médias en Tanzanie. IBN TV est la première chaîne islamique en Tanzanie. Il couvre presque toute la région de Dar es Salaam, Tanga, Arusha et Mwanza. IBN TV diffuse en quatre langues différentes, à savoir l’anglais, le swahili, le gujarati et l’ourdou.",
+"sourceTa": [
+"http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "http://www.alitrah.co.tz/wp-content/uploads/sites/3/2015/10/ibntvafrica.png",
+"titleTa": "IBN TV"
+      },
+      {
+"descriptionTa": "Africa tv1 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains musulmans de partout.",
+"sourceTa": [
+"http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "http://www.africagroup.tv/img/bgTV1.png",
+"titleTa": "Africa TV 1"
+      },
+      {
+"descriptionTa": "Africa tv2 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains musulmans de partout.",
+"sourceTa": [
+"http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "http://www.africagroup.tv/img/bgTV2.png",
+"titleTa": "Africa TV 2"
+      },
+      {
+"descriptionTa": "Africa tv3 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains de langue haoussa.",
+"sourceTa": [
+"http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
+],
+"subtitleTa": "By Channel",
+"thumbTa": "https://www.africagroup.tv/img/bgTV3.png",
+"titleTa": "Africa TV 3"
+          }
+       ]
+     }
+  ]
+}
+
+
+
+
+
+
+
 {
 "descriptionTa": "Safari TV est l'une des chaines privées du Tanzanie, possédant des émissions variées",
 "sourceTa": [
@@ -49,52 +123,9 @@
 "thumbTa": "https://od.lk/s/M18yOTEyMTIxMjFf/tbc2.jpeg",
 "titleTa": "TBC 2 TV"
 },
-{
-"descriptionTa": "Ibn tv tanzanie est l'une des chaines privées que l'on retrouve dans la ville de Kinshasa, possédant des émissions variées",
-"sourceTa": [
-"http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8"
-],
-"subtitleTa": "By Channel",
-"thumbTa": "https://od.lk/s/M18yNDg1NzQ0NTZf/ibn.png",
-"titleTa": "IBN TV"
-},
-{
-"descriptionTa": "Africa tv1 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains musulmans de partout.",
-"sourceTa": [
-"http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
-],
-"subtitleTa": "By Channel",
-"thumbTa": "http://www.africagroup.tv/img/bgTV1.png",
-"titleTa": "Africa TV 1"
-},
-{
-"descriptionTa": "Africa tv2 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains musulmans de partout.",
-"sourceTa": [
-"http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
-],
-"subtitleTa": "By Channel",
-"thumbTa": "http://www.africagroup.tv/img/bgTV2.png",
-"titleTa": "Africa TV 2"
-},
-{
-"descriptionTa": "Africa tv3 est une télévision africaine qui travaille pour aider les peuples a se communiquer avec DIEU et surtout sensibiliser les Africains de langue haoussa.",
-"sourceTa": [
-"http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"
-],
-"subtitleTa": "By Channel",
-"thumbTa": "https://www.africagroup.tv/img/bgTV3.png",
-"titleTa": "Africa TV 3"
-},
-{
-"descriptionTa": "IBN TV est un radiodiffuseur islamique de télévision et de radio qui transmet IBN TV et Radio Maarifa de Dar es Salaam et Tanga respectivement. Il a été crée sous la direction de la Fondation Al Itrah et a été diffusé officiellement depuis Mars 2003. IBN TV est un média privé qui a commencé après la libéralisation de l’industrie des médias en Tanzanie. IBN TV est la première chaîne islamique en Tanzanie. Il couvre presque toute la région de Dar es Salaam, Tanga, Arusha et Mwanza. IBN TV diffuse en quatre langues différentes, à savoir l’anglais, le swahili, le gujarati et l’ourdou.",
-"sourceTa": [
-"http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
-],
-"subtitleTa": "By Channel",
-"thumbTa": "http://www.alitrah.co.tz/wp-content/uploads/sites/3/2015/10/ibntvafrica.png",
-"titleTa": "IBN TV"
-}
-]
-}
-]
-}
+
+
+
+
+
+
